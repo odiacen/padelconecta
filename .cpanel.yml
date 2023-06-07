@@ -1,0 +1,9 @@
+##### THIS ALLOWS US TO DEPLOY THE SITE FROM A GIT REPO ######
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/padeljjc/test.padelconecta.es
+    - /bin/cp -R static $DEPLOYPATH    
+    /bin/cp index.html $DEPLOYPATH
+    /bin/cp asset-manifest.json $DEPLOYPATH
+    /bin/cp robot.txt $DEPLOYPATH
