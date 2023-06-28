@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.92f61e56.css",
-    "main.js": "/static/js/main.b48e5dde.js",
+    "main.css": "/static/css/main.3d3b3f28.css",
+    "main.js": "/static/js/main.66a0d715.js",
     "static/media/slider 4.png": "/static/media/slider 4.4d0534b783a5e6a56e39.png",
     "static/media/slider 5.png": "/static/media/slider 5.3deef08cfdb09a4e7bf2.png",
     "static/media/slider 1.png": "/static/media/slider 1.5700a471d27e10d7603b.png",
     "static/media/slider 2.png": "/static/media/slider 2.881b087d83949abedaef.png",
     "static/media/slider 3.png": "/static/media/slider 3.ad18be1b960a700f6246.png",
     "static/media/redsysImage.png": "/static/media/redsysImage.244edca29374950923da.png",
+    "static/media/errorPayment.svg": "/static/media/errorPayment.5ce442afefedce9171b354356eafac52.svg",
     "static/media/loading.png": "/static/media/loading.488c33d238fdfd2f7f18.png",
     "static/media/user.png": "/static/media/user.0d14c6999b4a5c8e86a7.png",
     "static/media/placeholder.png": "/static/media/placeholder.3126bdf269fbf4c03779.png",
+    "static/media/successPayment.svg": "/static/media/successPayment.60caf3dbe8a34cbb5c3af835ad543470.svg",
     "index.html": "/index.html",
-    "main.92f61e56.css.map": "/static/css/main.92f61e56.css.map",
-    "main.b48e5dde.js.map": "/static/js/main.b48e5dde.js.map"
+    "main.3d3b3f28.css.map": "/static/css/main.3d3b3f28.css.map",
+    "main.66a0d715.js.map": "/static/js/main.66a0d715.js.map"
   },
   "entrypoints": [
-    "static/css/main.92f61e56.css",
-    "static/js/main.b48e5dde.js"
+    "static/css/main.3d3b3f28.css",
+    "static/js/main.66a0d715.js"
   ]
 }
